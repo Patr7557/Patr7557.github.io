@@ -1,0 +1,36 @@
+body{
+    font-family:impact;
+    color: black;
+}
+
+.asdf {
+    background-color: blue;
+    color: white;
+    font-family: monospace;
+}
+
+.qwer{
+  background-color: violet;
+  margin: 2em;
+  padding: .5em;
+  color: white;
+  border: 5px solid lightgray;
+}
+
+.two{
+  background-color: lightblue;
+  margin: 5em;
+  padding: .8em;
+  color: black;
+  border: 5px solid black;
+}
+.tree{
+  background-color: white;
+  margin: 5em;
+  padding: .8em;
+  color: black;
+  border: 5px solid black;
+}
+em:hover {
+    font-size: 2em;
+  }
